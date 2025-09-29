@@ -1,2 +1,2 @@
 # ETR-
-Creating ETR from 
+Creating ETR from EEG Signals for classification of Schizophrenia patient
